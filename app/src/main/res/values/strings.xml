@@ -2,4 +2,6 @@
     <string name="app_name">RestAPI(Retrofit_Movies_Example)</string>
     <string name="title">Movies App</string>
     <string name="api_key">dd05a3971bda331641d65bfd7776ccb0</string>
+    <string name="post_data">Make a Post Request</string>
+    <string name="get_data">Make a Get Request</string>
 </resources>
